@@ -1,11 +1,11 @@
 pragma solidity ^0.4.18;
 
 // ----------------------------------------------------------------------------
-// 'FIXED' 'ExtremeSetup Token' token contract
+// 'KIMCHI SOCKS LLC' 'Soxchain Token' token contract
 //
-// Symbol      : EST
-// Name        : ExtremeSetup Token
-// Total supply: 1,000,000.000000000000000000
+// Symbol      : SOX
+// Name        : Soxchain
+// Total supply: 100,000,000.000000000000000000
 // Decimals    : 18
 //
 // Enjoy.
